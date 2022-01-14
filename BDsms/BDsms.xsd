@@ -7,7 +7,7 @@ version="0.1" xml:lang="es">
                 <xs:element name="sms" maxOccurs="unbounded">
                     <xs:complexType>
                         <xs:sequence>
-                            <xs:element name="telefono" type="xs:string"/>
+                            <xs:element name="teléfono" type="xs:string"/>
                             <xs:element name="fecha" type="xs:string"/>
                             <xs:element name="hora" type="xs:string"/>
                             <xs:element name="mensaje" type="xs:string"/>
