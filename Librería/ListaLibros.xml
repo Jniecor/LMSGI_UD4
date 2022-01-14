@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE Libros SYSTEM "ListaLibros.dtd">
+<Libros>
+    <Libro>
+        <Autores>
+            <Autor>
+                <Apellido1>Kathleen</Apellido1>
+                <Apellido2>Rowling</Apellido2>
+                <Nombre>Joanne</Nombre>
+            </Autor>      
+        </Autores>
+        <Título>Harry Potter y la piedra filosofal</Título>
+        <ISBN>8478884459</ISBN>
+        <Editorial>Salamandra</Editorial>
+        <Fecha_de_publicación>26 de junio de 2000</Fecha_de_publicación>
+    </Libro>
+    <Libro>
+        <Autores>
+            <Autor>
+                <Apellido1>Kathleen</Apellido1>
+                <Apellido2>Rowling</Apellido2>
+                <Nombre>Joanne</Nombre>
+            </Autor>      
+        </Autores>
+        <Título>Harry Potter y la cámara secreta</Título>
+        <ISBN>8478884955</ISBN>
+        <Editorial>Salamandra</Editorial>
+        <Fecha_de_publicación>26 de junio del 2000</Fecha_de_publicación>
+    </Libro>
+    <Libro>
+        <Autores>
+            <Autor>
+                <Apellido1>Kathleen</Apellido1>
+                <Apellido2>Rowling</Apellido2>
+                <Nombre>Joanne</Nombre>
+            </Autor>      
+        </Autores>
+        <Título>Harry Potter y el prisionero de Azkabán</Título>
+        <ISBN>847888615X</ISBN>
+        <Editorial>Salamandra</Editorial>
+        <Fecha_de_publicación>26 de junio del 2001</Fecha_de_publicación>
+    </Libro>
+    <Libro>
+        <Autores>
+            <Autor>
+                <Apellido1>Kathleen</Apellido1>
+                <Apellido2>Rowling</Apellido2>
+                <Nombre>Joanne</Nombre>
+            </Autor>      
+        </Autores>
+        <Título>Harry Potter y el Caliz de Fuego</Título>
+        <ISBN>8478886451</ISBN>
+        <Editorial>Salamandra</Editorial>
+        <Fecha_de_publicación>4 de marzo de 2002</Fecha_de_publicación>
+    </Libro>
+    <Libro>
+        <Autores>
+            <Autor>
+                <Apellido1>Kathleen</Apellido1>
+                <Apellido2>Rowling</Apellido2>
+                <Nombre>Joanne</Nombre>
+            </Autor>      
+        </Autores>
+        <Título>Harry Potter y la Orden del Fénix</Título>
+        <ISBN>8478887423</ISBN>
+        <Editorial>Salamandra</Editorial>
+        <Fecha_de_publicación>26 de junio de 2004</Fecha_de_publicación>
+    </Libro>
+    <Libro>
+        <Autores>
+            <Autor>
+                <Apellido1>Kathleen</Apellido1>
+                <Apellido2>Rowling</Apellido2>
+                <Nombre>Joanne</Nombre>
+            </Autor>      
+        </Autores>
+        <Título>Harry Potter y la piedra filosofal</Título>
+        <ISBN>8478884459</ISBN>
+        <Editorial>Salamandra</Editorial>
+        <Fecha_de_publicación>26 de junio de 2000</Fecha_de_publicación>
+    </Libro>
+    <Libro>
+        <Autores>
+            <Autor>
+                <Apellido1>Kathleen</Apellido1>
+                <Apellido2>Rowling</Apellido2>
+                <Nombre>Joanne</Nombre>
+            </Autor>      
+        </Autores>
+        <Título>Harry Potter y la cámara secreta</Título>
+        <ISBN>8478884955</ISBN>
+        <Editorial>Salamandra</Editorial>
+        <Fecha_de_publicación>26 de junio del 2000</Fecha_de_publicación>
+    </Libro>
+    <Libro>
+        <Autores>
+            <Autor>
+                <Apellido1>Kathleen</Apellido1>
+                <Apellido2>Rowling</Apellido2>
+                <Nombre>Joanne</Nombre>
+            </Autor>      
+        </Autores>
+        <Título>Harry Potter y el prisionero de Azkabán</Título>
+        <ISBN>847888615X</ISBN>
+        <Editorial>Salamandra</Editorial>
+        <Fecha_de_publicación>26 de junio del 2001</Fecha_de_publicación>
+    </Libro>
+    <Libro>
+        <Autores>
+            <Autor>
+                <Apellido1>Kathleen</Apellido1>
+                <Apellido2>Rowling</Apellido2>
+                <Nombre>Joanne</Nombre>
+            </Autor>      
+        </Autores>
+        <Título>Harry Potter y el Caliz de Fuego</Título>
+        <ISBN>8478886451</ISBN>
+        <Editorial>Salamandra</Editorial>
+        <Fecha_de_publicación>4 de marzo de 2002</Fecha_de_publicación>
+    </Libro>
+    <Libro>
+        <Autores>
+            <Autor>
+                <Apellido1>Kathleen</Apellido1>
+                <Apellido2>Rowling</Apellido2>
+                <Nombre>Joanne</Nombre>
+            </Autor>      
+        </Autores>
+        <Título>Harry Potter y la Orden del Fénix</Título>
+        <ISBN>8478887423</ISBN>
+        <Editorial>Salamandra</Editorial>
+        <Fecha_de_publicación>26 de junio de 2004</Fecha_de_publicación>
+    </Libro>
+</Libros>
