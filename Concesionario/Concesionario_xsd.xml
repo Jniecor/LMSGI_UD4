@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Concesionario xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="Concesionario.xsd">
+    <coche>
+        <codigoDeCoche>59HTP45</codigoDeCoche>
+        <marca>Honda</marca>
+        <modelo>Accord</modelo>
+        <matricula>59274HTPP</matricula>
+        <potencia>120CV</potencia>
+        <plazas>5</plazas>
+        <puertas>5</puertas>
+    </coche>
+    <coche>
+        <codigoDeCoche>596AS47</codigoDeCoche>
+        <marca>Volkswagen</marca>
+        <modelo>Polo A-Polo Plus 1.2 TSI</modelo>
+        <matricula>76492HJW</matricula>
+        <potencia>90CV</potencia>
+        <plazas>5</plazas>
+        <puertas>5</puertas>
+    </coche>
+    <coche>
+        <codigoDeCoche>58A952S</codigoDeCoche>
+        <marca>Seat</marca>
+        <modelo>Leon ST 2.0 TDI</modelo>
+        <matricula>78392WJT</matricula>
+        <potencia>150CV</potencia>
+        <plazas>5</plazas>
+        <puertas>5</puertas>
+    </coche>
+    <coche>
+        <codigoDeCoche>853AS74</codigoDeCoche>
+        <marca>BMW</marca>
+        <modelo>X5 xDrive30d</modelo>
+        <matricula>67485HBY</matricula>
+        <potencia>250CV</potencia>
+        <plazas>5</plazas>
+        <puertas>5</puertas>
+    </coche>
+    <coche>
+        <codigoDeCoche>59HTP55</codigoDeCoche>
+        <marca>Honda</marca>
+        <modelo>Accord</modelo>
+        <matricula>59274KPP</matricula>
+        <potencia>120CV</potencia>
+        <plazas>5</plazas>
+        <puertas>5</puertas>
+    </coche>
+    </Concesionario>
