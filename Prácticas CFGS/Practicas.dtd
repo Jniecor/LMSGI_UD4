@@ -1,0 +1,6 @@
+<!ELEMENT Practicas (Alumno*)>
+<!ELEMENT Alumno (NIF, Resultado, Observaciones, IP-Mac)>
+<!ELEMENT NIF (#PCDATA)>
+<!ELEMENT Resultado (#PCDATA)>
+<!ELEMENT Observaciones (#PCDATA)>
+<!ELEMENT IP-Mac (#PCDATA)>
