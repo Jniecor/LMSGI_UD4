@@ -12,4 +12,4 @@
 <!ELEMENT Observaciones (#PCDATA)>
     <!ATTLIST Observaciones xmlns CDATA #FIXED ''>
 <!ELEMENT IP EMPTY>
-<!ATTLIST IP xmlns CDATA #FIXED ''>
+    <!ATTLIST IP xmlns CDATA #FIXED ''>
