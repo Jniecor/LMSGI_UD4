@@ -3,7 +3,6 @@
 <clientes>
     <sede codigo="A0000001">
         <direccion>C/León, 2</direccion>
-        <direccion>C/León, 2</direccion>
         <empleado>Antonio Pérez</empleado>
         <fecha>2016-05-22</fecha>
         <descripcion>Urgente</descripcion>
