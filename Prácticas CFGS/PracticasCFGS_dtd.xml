@@ -1,22 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE Practicas SYSTEM "Practicas.dtd">
 <Practicas>
-    <Alumno>
-        <NIF>45867835J</NIF>
-        <Resultado>No apto</Resultado>
-        <Observaciones>No llega a los requisitos mínimos</Observaciones>
-        <IP-Mac>195.48.78.49</IP-Mac>
-    </Alumno>
-    <Alumno>
-        <NIF>78956475M</NIF>
-        <Resultado>Apto</Resultado>
-        <Observaciones></Observaciones>
-        <IP-Mac>87.238.79.188</IP-Mac>
-    </Alumno>
-    <Alumno>
-        <NIF>94586214P</NIF>
-        <Resultado>Apto</Resultado>
-        <Observaciones>Cumple todos los requisitos establecidos</Observaciones>
-        <IP-Mac>245.16.181.248</IP-Mac>
-    </Alumno>
+    <Alumnos>
+        <Alumno nombre="José Luis Altozano">
+            <NIF>58741536H</NIF>
+            <Resultado>APTO</Resultado>
+            <Observaciones>Cumple con los requisitos</Observaciones>
+            <IP></IP>
+        </Alumno>
+        <Alumno nombre="Francisco Guerra">
+            <NIF>58245784K</NIF>
+            <Resultado>APTO</Resultado>
+            <Observaciones>Ejercicio completo</Observaciones>
+            <IP></IP>
+        </Alumno>
+        <Alumno nombre="José Canto">
+            <NIF>86953114G</NIF>
+            <Resultado>NO APTO</Resultado>
+            <Observaciones>El esfuerzo ha sido nulo</Observaciones>
+            <IP></IP>
+        </Alumno>
+        <Alumno nombre="Antonio de Guadalupe">
+            <NIF>59631578D</NIF>
+            <Resultado>APTO</Resultado>
+            <Observaciones>Cumple con los requisitos</Observaciones>
+            <IP></IP>
+        </Alumno>
+    </Alumnos>
 </Practicas>

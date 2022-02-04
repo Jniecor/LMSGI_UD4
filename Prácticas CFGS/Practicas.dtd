@@ -1,6 +1,15 @@
-<!ELEMENT Practicas (Alumno*)>
-<!ELEMENT Alumno (NIF, Resultado, Observaciones, IP-Mac)>
+<?xml encoding="UTF-8"?>
+<!ELEMENT Practicas (Alumnos)>
+    <!ATTLIST Practicas xmlns CDATA #FIXED ''>
+<!ELEMENT Alumnos (Alumno)+>
+    <!ATTLIST Alumnos xmlns CDATA #FIXED ''>
+<!ELEMENT Alumno (NIF,Resultado,Observaciones,(IP | MAC))>
+    <!ATTLIST Alumno xmlns CDATA #FIXED '' nombre CDATA #REQUIRED>
 <!ELEMENT NIF (#PCDATA)>
+    <!ATTLIST NIF xmlns CDATA #FIXED ''>
 <!ELEMENT Resultado (#PCDATA)>
+    <!ATTLIST Resultado xmlns CDATA #FIXED ''>
 <!ELEMENT Observaciones (#PCDATA)>
-<!ELEMENT IP-Mac (#PCDATA)>
+    <!ATTLIST Observaciones xmlns CDATA #FIXED ''>
+<!ELEMENT IP EMPTY>
+<!ATTLIST IP xmlns CDATA #FIXED ''>
