@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<clientes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:noNamespaceSchemaLocation="Clientes.xsd">
+    <sede codigo="A0000001">
+        <direccion>C/León, 2</direccion>
+        <empleado>Antonio Pérez</empleado>
+        <fecha>2016-05-22</fecha>
+        <descripcion>Urgente</descripcion>
+        <cliente codigo="AAA-111">
+            <numero>1</numero>
+            <vivienda ID="001">
+                <coste>10</coste>
+                <resumen>Producto muy frágil</resumen>
+                <plazo>10</plazo>
+            </vivienda>
+        </cliente>
+        <cliente codigo="AAA-112">
+            <numero>1</numero>
+            <vivienda ID="002">
+                <coste>10</coste>
+                <resumen>No aplicar más de tres paquetes</resumen>
+                <plazo>8</plazo>
+            </vivienda>
+        </cliente>
+    </sede>
+    <sede codigo="B0000002">
+        <direccion>Avda. España, 23</direccion>
+        <empleado>Juan Antonio García</empleado>
+        <fecha>2013-03-14</fecha>
+        <descripcion>Urgente</descripcion>
+        <cliente codigo="BBB-111">
+            <numero>1</numero>
+            <vivienda ID="003">
+                <coste>50</coste>
+                <resumen>Producto pequeño</resumen>
+                <plazo>5</plazo>
+            </vivienda>
+        </cliente>
+        <cliente codigo="BBB-112">
+            <numero>1</numero>
+            <vivienda ID="004">
+                <coste>250</coste>
+                <resumen>Producto frágil</resumen>
+                <plazo>14</plazo>
+            </vivienda>
+        </cliente>
+    </sede>
+</clientes>

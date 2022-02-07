@@ -19,7 +19,7 @@
             <xs:element name="empleado" type="xs:string"/>
             <xs:element name="fecha" type="xs:date"/>
             <xs:element name="descripcion" type="xs:string" minOccurs="0"/>
-            <xs:element name="cliente" type="ClienteDatos" minOccurs="0" maxOccurs="unbounded"/>
+            <xs:element name="cliente" type="ClienteNDatos" minOccurs="0" maxOccurs="unbounded"/>
         </xs:sequence>
         <xs:attribute name="codigo" type="codigoTipo" use="required"/>
     </xs:complexType>
@@ -28,7 +28,7 @@
             <xs:pattern value="[A-Za-z]([A-Za-z0-9]){7}"/>
         </xs:restriction>
     </xs:simpleType>
-    <xs:complexType name="ClienteDatos">
+    <xs:complexType name="ClienteNDatos">
         <xs:sequence>
             <xs:element name="numero">
                 <xs:simpleType>
